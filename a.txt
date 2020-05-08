@@ -3,3 +3,4 @@ This is my test file
 My name is Arabinda Das
 
 This is a change in master to test merge conflict
+
