@@ -7,3 +7,5 @@ That is fine
 This is a change in master to test merge conflict
 
 Hello how are you
+
+Updating remote.....
