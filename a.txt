@@ -1,6 +1,9 @@
 This is my test file
 
-My name is Arabinda Das
+My name is Raja
+
+That is fine
 
 This is a change in master to test merge conflict
 
+Hello how are you
